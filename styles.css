@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+#text{
+	font-size: 20px;
+  color: red;
+  font-style: italic;
+}
